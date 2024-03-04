@@ -1,4 +1,4 @@
-<h1>Discrete Optimization(The University of Melbourne)</h1>
+<h1>Discrete Optimization (The University of Melbourne)</h1>
 <p>This course is an introduction to discrete optimization and exposes students to some of the most fundamental concepts and algorithms in the field. It covers constraint programming, local search, and mixed-integer programming from their foundations to their applications for complex practical problems in areas such as scheduling, vehicle routing, supply-chain optimization, and resource allocation.</p>
 
 <h1>Knapsack</h1>
